@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "ProjetoComAbstractFactory.App",
+      "projectName": "AbstractFactoryProjeto_bf364b61"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "ProjetoSemAbstractFactory.App",
+      "projectName": "AbstractFactoryProjeto_bf364b61"
+    },
+    {
+      "name": "dart_application_1",
+      "request": "launch",
+      "type": "dart",
+      "console": "terminal"
+    }
+  ]
+}
